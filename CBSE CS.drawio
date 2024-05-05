@@ -1,9 +1,25 @@
-<mxfile host="app.diagrams.net" modified="2024-03-16T16:29:02.848Z" agent="Mozilla/5.0 (iPad; CPU OS 17_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/121.0.6167.138 Mobile/15E148 Safari/604.1" version="24.0.7" etag="pVWAcbeGC_LJhmKUW9tl" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-05T06:49:46.933Z" agent="Mozilla/5.0 (iPad; CPU OS 17_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/124.0.6367.88 Mobile/15E148 Safari/604.1" etag="sxoCaBlWtCYx1SpR6aY5" version="24.3.1" type="github">
   <diagram name="Page-1" id="McCX37M-9BVXXr7MZ8Cc">
-    <mxGraphModel>
+    <mxGraphModel dx="1320" dy="592" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="3JHxnx4TPeOH4EBhY94l-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillStyle=hatch;fillColor=#787878;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="-211" y="31" width="69" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="3JHxnx4TPeOH4EBhY94l-2" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry width="120" relative="1" as="geometry">
+            <mxPoint x="-176" y="54" as="sourcePoint" />
+            <mxPoint x="-176" y="113" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3JHxnx4TPeOH4EBhY94l-4" value="&lt;i style=&quot;font-size: 20px;&quot;&gt;m&lt;/i&gt; = 1 kg" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="-142" y="35" width="89" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3JHxnx4TPeOH4EBhY94l-5" value="&lt;i style=&quot;font-size: 20px;&quot;&gt;mg&lt;/i&gt;" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="-201.5" y="113" width="50" height="32" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
